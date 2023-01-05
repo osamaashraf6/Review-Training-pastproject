@@ -81,7 +81,9 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-- N/A
+- Add the structure of the project
+- Display the images and the content in the HTML👎
+- Use the CSS style for the project💯.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
